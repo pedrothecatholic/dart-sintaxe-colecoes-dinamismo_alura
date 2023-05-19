@@ -1,5 +1,6 @@
 void main() {
-  escolherMeioTransporte(0);
+  // escolherMeioTransporte(0);
+  escolherMeioTransporteEnum(Transporte.carro);
 }
 
 void escolherMeioTransporte(int locomocao) {
